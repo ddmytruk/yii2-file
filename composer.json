@@ -1,0 +1,22 @@
+{
+    "name": "ddmytruk/yii2-file",
+    "description": "File component",
+    "keywords": ["yii2", "yii2-file", "component"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Dmytro Dmytruk",
+            "email": "d.dmytruk@icloud.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "^2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ddmytruk\\file\\": ""
+        }
+    }
+}
